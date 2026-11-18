@@ -293,7 +293,7 @@ function App() {
             <motion.div variants={fadeInRight} className="md:w-1/2 flex justify-center md:justify-end">
               <div className="relative w-48 h-48 sm:w-64 sm:h-64 md:w-72 md:h-72 lg:w-80 lg:h-80">
                 <img
-                  src="prem.png"
+                  src="Rudra.jpeg"
                   alt="Profile"
                   className="rounded-full w-full h-full object-cover shadow-2xl border-4 border-white"
                 />
